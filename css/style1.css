@@ -1,0 +1,122 @@
+/*
+body{
+    background: #eee;
+}
+#frm{
+    border: solid gray 1px;
+    width: 25%;
+    border-radius: 2px;
+    margin: 120px auto;
+    background: white;
+}
+
+#btnSubmit{
+    color: #fff;
+    background: #337ab7;
+    padding: 7px;
+    margin-left: 70%;
+}
+*/
+.ion-icon-big {
+    font-size: 30px; 
+}
+
+.logout {
+    font-size: 20px;
+    letter-spacing: 3px;
+  }
+
+.login {
+    font-size: 20px;
+    letter-spacing: 3px;
+  }
+
+.thick {
+    font-weight: bold;
+    color:black
+  }
+
+.thick2 {
+  font-weight: bold;
+  color:black;
+  font-size: 20px;
+  }
+
+.thick3 {
+  font-weight: bold;
+  color:black;
+  font-size: 40px;
+}
+
+.text-center-panier{
+ text-align: center;
+ margin-left: 10Rem;
+}
+
+.text-center{
+    text-align: center;
+    font-size: 30px;
+  }
+
+.background-librairie{
+    background-color: silver;
+    width: 100%;
+    height: 60%
+    
+  }
+
+.image {
+    width: 50%;
+}
+
+.margin-bnt {
+  margin-bottom: 2Rem;
+}
+
+.margin-panier-count {
+
+  margin-bottom: 2Rem;
+  margin-left: 1.3Rem;
+}
+
+.margin-panier-td {
+
+  margin-bottom: 2Rem;
+  margin-left: 1.3Rem;
+}
+
+.image-tous {
+  width: 50px;
+  height: 100px;
+}
+
+.icon-center{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.cart-icon{
+  padding-left: 20px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  width: 50px;
+}
+
+.flexbox-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+}
+
+.flexbox-container-panier{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.form-tous{
+  width: 100px;
+  height: 200px;;
+}
